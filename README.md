@@ -84,3 +84,7 @@ systemctl start celestia
 ```console
 journalctl -fu celestia
 ```
+## Check node status
+```console
+systemctl status celestia
+```
